@@ -1,4 +1,4 @@
-# Deepfake Detection CNN Model using DenseNet
+# Artificial Image Detector CNN Model using DenseNet
 ----------------------------------------------
 ## Project Overview
 
